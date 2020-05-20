@@ -1,6 +1,6 @@
 # trees-carseats-data
 
-This project is aimed at analyzing the Carseats dataset that is available in the ISLR library by utilizing Classification Tree and Regression Tree. The data provides information related to sales of child car seats at 400 different stores. A brief description of the dataset could be found by executing the following command:
+This project is aimed at analyzing the Carseats dataset that is available in the ISLR library by utilizing Classification Tree and Regression Tree. The data provide information related to sales of child car seats at 400 different stores. A brief description of the dataset could be found by executing the following command:
 
 ````
 help(Carseats)
