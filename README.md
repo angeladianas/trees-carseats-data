@@ -11,6 +11,6 @@ help(Carseats)
 
 # Packages
 * [ISLR](https://www.rdocumentation.org/packages/ISLR/versions/1.2)
-* [Tree](https://www.rdocumentation.org/packages/tree/versions/1.0-40)
+* [tree](https://www.rdocumentation.org/packages/tree/versions/1.0-40)
 
 
