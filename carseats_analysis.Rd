@@ -1,5 +1,3 @@
-getwd()
-setwd("/Users/angeladianas/Desktop/Lund/r_files")
 library(ISLR)
 library(tree)
 help(Carseats)
